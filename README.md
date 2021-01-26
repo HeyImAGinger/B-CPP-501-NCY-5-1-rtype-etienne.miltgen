@@ -1,4 +1,4 @@
-# R-Type-Tek-3-Etienne-MILTGEN
+# R-Type-Etienne-Miltgen
 > Reproduction of the famous R-Type Game
 
 This project is a Epitech 3rd year project about redevelopping the famous multiplayer R-Type game. This project is part of the advanced C++ module.
