@@ -54,5 +54,3 @@ You can play the game solo or with friends.
 ## Meta
 
 Etienne MILTGEN – [@EtienneMiltgen](https://twitter.com/EtienneMiltgen) – etienne.miltgen@outlook.com
-
-## Contributing
